@@ -1,0 +1,43 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Data_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/EX_Mem_PR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_Mem_PR
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/EX_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_stage
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/ID_EX_PR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX_PR
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/ID_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_stage
+INFO: [VRFC 10-311] analyzing module Reg_File
+INFO: [VRFC 10-311] analyzing module DF_control
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/IF_ID_PR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID_PR
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/IF_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Instruct_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module I_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Mem_WB_PR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mem_WB_PR
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Mem_stage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mem_stage
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uP16_top
+INFO: [VRFC 10-2458] undeclared symbol ID_sel_PC, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:56]
+INFO: [VRFC 10-2458] undeclared symbol EX_RFwriteEnab_d, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:79]
+INFO: [VRFC 10-2458] undeclared symbol ID_RFwriteEnab_d, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:80]
+INFO: [VRFC 10-2458] undeclared symbol ID_memWriteEnab, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:98]
+INFO: [VRFC 10-2458] undeclared symbol ID_memEnab, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:99]
+INFO: [VRFC 10-2458] undeclared symbol ID_sel_mem2RF, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:100]
+INFO: [VRFC 10-2458] undeclared symbol ID_sel_ALUsrc1, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:101]
+INFO: [VRFC 10-2458] undeclared symbol ID_RFwriteEnab, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:102]
+INFO: [VRFC 10-2458] undeclared symbol ID_memWriteEnab_d, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:129]
+INFO: [VRFC 10-2458] undeclared symbol ID_memEnab_d, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:130]
+INFO: [VRFC 10-2458] undeclared symbol ID_sel_mem2RF_d, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:131]
+INFO: [VRFC 10-2458] undeclared symbol ID_sel_ALUsrc1_d, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:132]
+INFO: [VRFC 10-2458] undeclared symbol EX_sel_mem2Reg_d, assumed default net type wire [Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v:164]
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/__CE2003_Lab5_students/uP16_top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uP16_top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/Lab_5/Lab_5.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

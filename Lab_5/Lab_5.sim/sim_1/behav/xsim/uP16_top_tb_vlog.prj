@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/Data_mem.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/EX_Mem_PR.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/EX_stage.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/ID_EX_PR.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/ID_stage.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/IF_ID_PR.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/IF_stage.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/Instruct_mem.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/Mem_WB_PR.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/Mem_stage.v" \
+"../../../../../__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v" \
+"../../../../../__CE2003_Lab5_students/uP16_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

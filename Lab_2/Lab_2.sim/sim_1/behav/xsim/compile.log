@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/clkgen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkgen
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/seven_seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seven_seg
+WARNING: [VRFC 10-3380] identifier 'benchNo_Hi' is used before its declaration [Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/seven_seg.v:38]
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/Lab2_imp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab2_imp
+INFO: [VRFC 10-2458] undeclared symbol write_e, assumed default net type wire [Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/Lab2_imp.v:32]
+INFO: [VRFC 10-2458] undeclared symbol d_out, assumed default net type wire [Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/Lab2_imp.v:33]

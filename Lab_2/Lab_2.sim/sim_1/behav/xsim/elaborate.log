@@ -1,0 +1,19 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto f47a57f3955f471e94c861eecef8d01c --incr --debug typical --relax --mt 2 -L dist_mem_gen_v8_0_12 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot Lab2_imp_behav xil_defaultlib.Lab2_imp xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 8 for port 'd_out' [Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/Lab2_imp.v:33]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "Y:/CE2003/CE2003_Lab2_pre/Lab2_pre/clkgen.v" Line 4. Module clkgen doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module dist_mem_gen_v8_0_12.dist_mem_gen_v8_0_12(C_FAMILY="a...
+Compiling module xil_defaultlib.Lab2_mem
+Compiling module xil_defaultlib.Lab2_top
+Compiling module xil_defaultlib.clkgen
+Compiling module xil_defaultlib.seven_seg
+Compiling module xil_defaultlib.Lab2_imp
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Lab2_imp_behav

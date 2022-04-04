@@ -1,0 +1,46 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Fri Jan 28 15:53:34 2022
+| Host         : hwl3-vc009 running 64-bit major release  (build 9200)
+| Command      : report_drc -file top_FSM_drc_routed.rpt -pb top_FSM_drc_routed.pb -rpx top_FSM_drc_routed.rpx
+| Design       : top_FSM
+| Device       : xc7a35tcpg236-1
+| Speed File   : -1
+| Design State : Fully Routed
+---------------------------------------------------------------------------------------------------------------
+
+Report DRC
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+           Ruledeck: default
+             Max violations: <unlimited>
+             Violations found: 2
++----------+----------+-------------------+------------+
+| Rule     | Severity | Description       | Violations |
++----------+----------+-------------------+------------+
+| PDRC-153 | Warning  | Gated clock check | 2          |
++----------+----------+-------------------+------------+
+
+2. REPORT DETAILS
+-----------------
+PDRC-153#1 Warning
+Gated clock check  
+Net U1/insert_coin_reg_i_2_n_0 is a gated clock net sourced by a combinational pin U1/insert_coin_reg_i_2/O, cell U1/insert_coin_reg_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+PDRC-153#2 Warning
+Gated clock check  
+Net U1/money_return_reg_i_2_n_0 is a gated clock net sourced by a combinational pin U1/money_return_reg_i_2/O, cell U1/money_return_reg_i_2. This is not good design practice and will likely impact performance. For SLICE registers, for example, use the CE pin to control the loading of data.
+Related violations: <none>
+
+

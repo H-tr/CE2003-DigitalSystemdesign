@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../uP_src/Data_mem.v" \
+"../../../../uP_src/EX_Mem_PR.v" \
+"../../../../uP_src/EX_stage.v" \
+"../../../../uP_src/ID_EX_PR.v" \
+"../../../../uP_src/ID_stage.v" \
+"../../../../uP_src/IF_ID_PR.v" \
+"../../../../uP_src/IF_stage.v" \
+"../../../../uP_src/Instruct_mem.v" \
+"../../../../uP_src/Mem_stage.v" \
+"../../../../uP_src/uP16_top.v" \
+"../../../../uP16_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

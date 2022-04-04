@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+Y:/CE2003/Lab_3/AM_top.v,1645772545,verilog,,Y:/CE2003/Lab_3/multA.v,,AM_top,,,,,,,,
+Y:/CE2003/Lab_3/AM_top_tb.v,1611119622,verilog,,,,AM_top_tb,,,,,,,,
+Y:/CE2003/Lab_3/Lab_3.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+Y:/CE2003/Lab_3/array_mult_6bit.v,1568260606,verilog,,Y:/CE2003/Lab_3/AM_top_tb.v,,array_mult_6bit,,,,,,,,
+Y:/CE2003/Lab_3/multA.v,1611043724,verilog,,Y:/CE2003/Lab_3/multB.v,,multA,,,,,,,,
+Y:/CE2003/Lab_3/multB.v,1611043808,verilog,,Y:/CE2003/Lab_3/AM_top_tb.v,,multB,,,,,,,,

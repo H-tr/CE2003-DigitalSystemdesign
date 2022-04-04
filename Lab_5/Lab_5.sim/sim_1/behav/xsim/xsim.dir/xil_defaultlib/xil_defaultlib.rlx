@@ -1,0 +1,17 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+Y:/CE2003/Lab_5/Lab_5.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/uP16_top_tb.v,1648778282,verilog,,,,uP16_top_tb,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Data_mem.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/EX_Mem_PR.v,,D_mem,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/EX_Mem_PR.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/EX_stage.v,,EX_Mem_PR,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/EX_stage.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/ID_EX_PR.v,,ALU;EX_stage,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/ID_EX_PR.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/ID_stage.v,,ID_EX_PR,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/ID_stage.v,1648796627,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/IF_ID_PR.v,,Control;DF_control;ID_stage;Reg_File,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/IF_ID_PR.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/IF_stage.v,,IF_ID_PR,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/IF_stage.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Instruct_mem.v,,IF_stage,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Instruct_mem.v,1648795917,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Mem_WB_PR.v,,I_mem,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Mem_WB_PR.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Mem_stage.v,,Mem_WB_PR,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/Mem_stage.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v,,Mem_stage,,,,,,,,
+Y:/CE2003/__CE2003_Lab5_students/up16_Lab5_src/uP16_top.v,1648778307,verilog,,Y:/CE2003/__CE2003_Lab5_students/uP16_top_tb.v,,uP16_top,,,,,,,,
