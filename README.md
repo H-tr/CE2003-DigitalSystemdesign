@@ -19,23 +19,23 @@ This repository serves as a comprehensive resource for students taking the CE200
 Here's an overview of the five labs in this repository:
 
 1. **Lab 1: Simple Vending Machine**
-   - Lab Manual: [Lab1_Manual.pdf](Lab1_Manual.pdf)
+   - Lab Manual: [Lab1_Manual.pdf](CE3002_Lab1.pdf)
    - This lab introduces basic digital logic design concepts using a simple vending machine as a practical example.
 
 2. **Lab 2: Memory Primitives**
-   - Lab Manual: [Lab2_Manual.pdf](Lab2_Manual.pdf)
+   - Lab Manual: [Lab2_Manual.pdf](CE3002_Lab2.pdf)
    - Lab 2 explores memory primitives and their role in digital system design.
 
 3. **Lab 3: Pipelining**
-   - Lab Manual: [Lab3_Manual.pdf](Lab3_Manual.pdf)
+   - Lab Manual: [Lab3_Manual.pdf](CE3002_Lab3.pdf)
    - In this lab, you'll dive into the world of pipelining and understand its significance in digital systems.
 
 4. **Lab 4: Pipelining and Datapath**
-   - Lab Manual: [Lab4_Manual.pdf](Lab4_Manual.pdf)
+   - Lab Manual: [Lab4_Manual.pdf](CE3002_Lab4.pdf)
    - Lab 4 extends the concepts of pipelining to cover the datapath and its implementation.
 
 5. **Lab 5: Microprocessor 16**
-   - Lab Manual: [Lab5_Manual.pdf](Lab5_Manual.pdf)
+   - Lab Manual: [Lab5_Manual.pdf](CE3002_Lab5.pdf)
    - The final lab focuses on the design and understanding of a Microprocessor 16, delving into microprocessor architecture.
 
 ## Usage
